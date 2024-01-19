@@ -1,3 +1,4 @@
+// program to remeber the basics of programming
 public class Class {
 
     static int var=10; 
