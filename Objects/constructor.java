@@ -16,5 +16,6 @@ public class constructor {
         constructor obj =new constructor();
         constructor obj1 = new constructor("HEY");
         constructor obj2 = new constructor(10); 
+        
     }
 }

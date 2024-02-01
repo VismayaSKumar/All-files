@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "busres",
+      "request": "launch",
+      "mainClass": "busres",
+      "projectName": "Java_4baf2331"
+    },
+    {
+      "type": "java",
+      "name": "Seats",
+      "request": "launch",
+      "mainClass": "Seats",
+      "projectName": "Java_4baf2331"
+    },
+    {
+      "type": "java",
+      "name": "Brs",
+      "request": "launch",
+      "mainClass": "Brs",
+      "projectName": "Java_4baf2331"
+    },
+    {
+      "type": "java",
+      "name": "BusReservationSystem",
+      "request": "launch",
+      "mainClass": "BusReservationSystem",
+      "projectName": "Java_4baf2331"
+    },
+    {
+      "type": "java",
+      "name": "fromto",
+      "request": "launch",
+      "mainClass": "fromto",
+      "projectName": "Java_4baf2331"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
